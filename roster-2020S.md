@@ -28,4 +28,5 @@
 | 0123 | 苏士千 | [SSQ](markdown/2020-Spring/0123-苏士千.md)    |     |
 | 0229 | 李宜澍 | [liy1shu](markdown/2020-Spring/0229-李宜澍.md) |      |
 
+| 0229 | 任衍韬 | [RYT-TYR](markdown/2020-Spring/0008-任衍韬.md) |      |
 
